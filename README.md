@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Adeep AG! 👋
 
-<!--
-**ADEEP-AG/ADEEP-AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [TalkNix](https://github.com/ADEEP-AG/TalkNix)  
+🌱 I’m learning GitHub and software development  
+⚡ Fun fact: I love physics and tech innovation!  
 
-Here are some ideas to get you started:
+## 🛠 Skills  
+- C++, HTML, SQL  
+- Web Development  
+- Raspberry Pi & IoT  
+- Learning about Military Aviation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ADEEP-AG)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adeepzone/)
